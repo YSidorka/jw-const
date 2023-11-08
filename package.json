@@ -1,0 +1,12 @@
+{
+  "name": "@jw/const",
+  "version": "1.0.0",
+  "description": "Job worker common values",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YSidorka/jw-const.git"
+  },
+  "author": "YSidorka",
+  "license": "MIT"
+}
